@@ -176,6 +176,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [Oxyplot](https://oxyplot.codeplex.com/) - OxyPlot is a cross-platform plotting library for .NET
 * [OpenTK](http://www.opentk.com/) - The Open Toolkit is an advanced, low-level C# library that wraps OpenGL, OpenCL and OpenAL
+* [SharpDX](https://github.com/sharpdx/SharpDX) - SharpDX is a project delivering the full DirectX API for .NET on all Windows platforms.
 
 ## GUI
 
@@ -207,8 +208,11 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## Image Processing
 
-* [ImageResizer](http://imageresizing.net/) - Add commands to image URLs to get altered versions in milliseconds. Resizing, editing etc of images in real-time.
-* [ImageProcessor](http://imageprocessor.org/) - Open-source .NET library to manipulate images on-the-fly.
+* [ImageResizer](http://imageresizing.net/) - Add commands to image URLs to get altered versions in milliseconds. Edit, filter, touch-up images in real-time. (multiple backends - FreeImage, C++/CLI, GDI+, WIC). 45+ plugins available. ([Apache 2 / AGPL](https://github.com/imazen/resizer/blob/develop/LICENSE.md))
+* [.NET Image Processor](http://dotnetimageprocessor.codeplex.com/) - Extensible, chainable image processing library (GDI+ based) (Ms-PL).
+* [DynamicImage](https://github.com/tgjones/dynamic-image) - WPF-based server-side image rendering system - lots of visual effects implemented as high-performance shaders. Has URL api, several plugins available. (Apache 2)
+* [ImageProcessor](http://imageprocessor.org/)  - Open-source .NET library to manipulate images on-the-fly. (GDI+ based) (Apache 2).
+
 
 ## Install tools
 
